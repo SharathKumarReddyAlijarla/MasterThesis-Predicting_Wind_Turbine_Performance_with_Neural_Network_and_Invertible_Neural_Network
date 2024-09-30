@@ -1,0 +1,8 @@
+FrEIA==0.2
+FrEIA==0.2
+matplotlib==3.7.4
+numpy==1.24.4
+pandas==2.0.3
+plotly==5.22.0
+scikit_learn==1.3.2
+torch==2.1.2+cpu
