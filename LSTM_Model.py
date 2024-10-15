@@ -68,8 +68,8 @@ class LSTMModel(nn.Module):
 
 if __name__ == "__main__":
     # Define folder paths for data and model saving.
-    folder_path = r'C:\Users\alijarla\Desktop\Operational_data'
-    save_path = r'C:\Users\alijarla\Desktop\lstm9'
+    folder_path = r'C:\Users\alijarla....'
+    save_path = r'C:\Users\alijarla\....'
     os.makedirs(save_path, exist_ok=True)
     
     # Get list of all CSV files in the specified folder.
