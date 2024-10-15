@@ -100,7 +100,7 @@ def mean_absolute_percentage_error(y_true, y_pred):
 
 if __name__ == "__main__":
     # Path to the folder containing the CSV files
-    folder_path = r'C:\Users\alijarla\Desktop\Operational_data'
+    folder_path = r'C:\Users\alijarla'
 
     # Get a list of all files in the folder
     file_list = os.listdir(folder_path)
